@@ -1,7 +1,5 @@
 .idea
 .nuxt
-dist
 node_modules
-src/node_modules
 *.iml
 npm-debug.log
